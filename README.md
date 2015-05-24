@@ -41,7 +41,7 @@ We use https://david-dm.org/ to track our dependencies. david-dm is lovingly mai
 You'll need to setup your project on [**Travis-CI**](https://github.com/docdis/learn-travis) and write **unit tests** (*preferably TDD!*) for this to work ... if you're stuck ask us how!
 
 
-### CodeCliamte
+### CodeClimate
 
 Setup your repository by adding it on code climate then copy the badge markdown from them!
 
